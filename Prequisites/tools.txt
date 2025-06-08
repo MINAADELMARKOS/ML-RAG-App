@@ -1,5 +1,0 @@
-1- Mini conda  
-2- Python
-3- WSL
-4- Git 
-5- structure project
